@@ -1,0 +1,22 @@
+{
+  "name": "ed-cola",
+  "version": "1.0.0",
+  "description": "",
+  "main": "queue.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "eslintConfig": {
+    "env": {
+      "jest": true
+    }
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
